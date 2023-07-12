@@ -1,4 +1,6 @@
-# co6f14249b468fa5fdd02f1f5
+# BlackJack Game
+
+Made this game through scrimba, as a refresher and improving my front end skills as a developer. 
 
 Quick start:
 
